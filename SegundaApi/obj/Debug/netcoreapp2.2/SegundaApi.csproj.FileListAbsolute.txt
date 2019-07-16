@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Fernando Niz\WebApi\SegundaApi\bin\Debug\netcoreapp2.2\SegundaApi.deps.json
+C:\Users\Administrator\Desktop\Fernando Niz\WebApi\SegundaApi\bin\Debug\netcoreapp2.2\SegundaApi.runtimeconfig.json
+C:\Users\Administrator\Desktop\Fernando Niz\WebApi\SegundaApi\bin\Debug\netcoreapp2.2\SegundaApi.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\Fernando Niz\WebApi\SegundaApi\bin\Debug\netcoreapp2.2\SegundaApi.dll
+c:\Users\Administrator\Desktop\Fernando Niz\WebApi\SegundaApi\bin\Debug\netcoreapp2.2\SegundaApi.pdb
+c:\Users\Administrator\Desktop\Fernando Niz\WebApi\SegundaApi\obj\Debug\netcoreapp2.2\SegundaApi.csprojAssemblyReference.cache
+c:\Users\Administrator\Desktop\Fernando Niz\WebApi\SegundaApi\obj\Debug\netcoreapp2.2\SegundaApi.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\Fernando Niz\WebApi\SegundaApi\obj\Debug\netcoreapp2.2\SegundaApi.RazorAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Fernando Niz\WebApi\SegundaApi\obj\Debug\netcoreapp2.2\SegundaApi.RazorAssemblyInfo.cs
+c:\Users\Administrator\Desktop\Fernando Niz\WebApi\SegundaApi\obj\Debug\netcoreapp2.2\SegundaApi.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\Fernando Niz\WebApi\SegundaApi\obj\Debug\netcoreapp2.2\SegundaApi.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\Fernando Niz\WebApi\SegundaApi\obj\Debug\netcoreapp2.2\SegundaApi.RazorTargetAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Fernando Niz\WebApi\SegundaApi\obj\Debug\netcoreapp2.2\SegundaApi.dll
+c:\Users\Administrator\Desktop\Fernando Niz\WebApi\SegundaApi\obj\Debug\netcoreapp2.2\SegundaApi.pdb
